@@ -1,0 +1,21 @@
+.main{
+    padding: 10px;
+    border: 1px solid #2e2e2e;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    display: flex;
+    justify-content: inline;
+    align-items: flex-start;
+
+    
+}
+.content{
+    padding-left: 10px;
+    /* margin-right: 60px; */
+}
+.ava{
+    float: right; 
+
+}
